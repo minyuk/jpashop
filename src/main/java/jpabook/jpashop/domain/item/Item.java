@@ -39,5 +39,11 @@ public abstract class Item {
         this.stockQuantity = restStock;
     }
 
+    public void changeParam(String name, int price, int quantity) {
+        this.name = name;
+        this.price = price;
+        this.stockQuantity = quantity;
+    }
+
 
 }
