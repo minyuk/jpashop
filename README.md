@@ -3,7 +3,7 @@
 ##### 인프런 강의를 통해 학습 - 실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화(김영한)
 
 ## 1Day - Project Setting
-  - 프로젝트, DB(h2)
+  - 프로젝트, DB(MariaDB)
 
 ## 2Day - Entity
   - 도메인 모델, 테이블 설계
